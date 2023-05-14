@@ -7,7 +7,24 @@ Jiaqi Yang,
 Kuai Yu,
 
 ## Description
-We built a MRI brain tumor image classifier.  
+Brain tumor is one of the most severe tumor types among all. There are more than 200,000 cases per year in the United States. The five-year survival rate for brain tumors in general is only 2 out of 10 individuals.
+
+We developed a Magnetic Resonance Imaging (MRI) brain tumor imaged-based Convolutional Neural Network (CNN) to classify MRI brain tumor images.
+
+A proper MRI image classification could reduce a lot of work to the medical system as well as improve the efficiency of workflow, decreasing diagnosis cost and more importantly buy more time for the patients for early treatment.
+
+The dataset we utilized has already classified brain tumor types into 4 categories: glioma tumor, meningioma tumor, pituitary tumor, and no tumor.
+
+However, the probability of classifying brain tumor images based on MRI images alone is significantly low.
+
+The testing MRI files include 100 glioma tumor images, 115 meningioma tumor images, 105 no tumor images, and 74 pituitary tumor images.
+
+The training MRI files include 826 glioma tumor images, 822 meningioma tumor images, 395 no tumor images, and 827 pituitary tumor images.
+
+This dataset includes both front views, side views, top views, and back views.
+
+ 
+We have also tried TransferLearning (TL) with AlexNet for better image classifications. Yet, the result did not turn out to be statistically significant. Hence, only CNN model, training data, and testing data is shown bellow.
 
 ## Data Set of Choice
 https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri
