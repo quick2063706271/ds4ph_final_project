@@ -1,5 +1,10 @@
 # PH.140.629 ds4ph_final_project
-
+## Name
+Lanzhuo Wu (Team Leader),
+Zhe Chen,
+Yuqian Wang,
+Jiaqi Yang,
+Kuai Yu,
 
 ## Data Set of Choice
 https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri
