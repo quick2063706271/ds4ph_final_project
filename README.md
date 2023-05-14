@@ -6,6 +6,9 @@ Yuqian Wang,
 Jiaqi Yang,
 Kuai Yu,
 
+## Description
+We built a MRI brain tumor image classifier.  
+
 ## Data Set of Choice
 https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri
 
@@ -18,4 +21,6 @@ Validation Accuracy:
 
 Testing Accuracy: 
 0.7055837563451777
+
+
 Our final model 
