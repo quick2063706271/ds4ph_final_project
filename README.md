@@ -40,4 +40,8 @@ Testing Accuracy:
 0.7055837563451777
 
 
-Our final model 
+Our final model
+
+
+## Citation
+[1] Sartaj Bhuvaji, Ankita Kadam, Prajakta Bhumkar, Sameer Dedge, &amp; Swati Kanchan. (2020). <i>Brain Tumor Classification (MRI)</i> [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DSV/1183165
