@@ -1,5 +1,5 @@
 # PH.140.629 ds4ph_final_project
-## Name
+## Authors
 Lanzhuo Wu (Team Leader),
 Zhe Chen,
 Yuqian Wang,
