@@ -28,7 +28,7 @@ The training MRI files include 826 glioma tumor images, 822 meningioma tumor ima
 
 This dataset includes both front views, side views, top views, and back views.
  
-We have also tried TransferLearning (TL) with AlexNet for better image classifications. Yet, there is no difference in testing accuracy. Hence, only CNN model, training data, and testing data is shown bellow.
+We have also tried TransferLearning (TL) with VGG16 for better image classifications (Simonyan et al. 2014). Yet, there is no difference in testing accuracy. Hence, only CNN model, training data, and testing data is shown bellow.
 
 ## Run the streamlit app
 ```
@@ -68,3 +68,5 @@ CNN(
 [3]Sartaj Bhuvaji, Ankita Kadam, Prajakta Bhumkar, Sameer Dedge, &amp; Swati Kanchan. (2020). <i>Brain Tumor Classification (MRI)</i> [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DSV/1183165
 
 [4]Villanueva-Meyer, J. E., Mabray, M. C., & Cha, S. (2017). Current Clinical Brain Tumor Imaging. <i>Neurosurgery, 81</i>(3), 397–415. https://doi.org/10.1093/neuros/nyx103 
+
+[5] Simonyan, K., & Zisserman, A. (2014). Very deep convolutional networks for large-scale image recognition. arXiv preprint arXiv:1409.1556.
