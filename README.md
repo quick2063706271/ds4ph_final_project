@@ -1,4 +1,4 @@
-# PH.140.629 ds4ph_final_project
+# PH.140.629 Final Project: MRI Brain Tumor Classifier Web App 
 ## Authors
 Lanzhuo Wu (Team Leader),
 Zhe Chen,
