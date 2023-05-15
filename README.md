@@ -9,7 +9,7 @@ Kuai Yu,
 ## Description
 Brain tumor is one of the most severe tumor types among all. There are more than 200,000 cases per year in the United States. The five-year survival rate for brain tumors in general is only 2 out of 10 individuals.
 
-We developed a Magnetic Resonance Imaging (MRI) brain tumor imaged-based Convolutional Neural Network (CNN) to classify MRI brain tumor images.
+We developed and trained a Magnetic Resonance Imaging (MRI) brain tumor imaged-based Convolutional Neural Network (CNN) to classify MRI brain tumor images, and then incorporate the classifier into a web application.
 
 A proper MRI image classification could reduce a lot of work to the medical system as well as improve the efficiency of workflow, decreasing diagnosis cost and more importantly buy more time for the patients for early treatment.
 
