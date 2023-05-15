@@ -1,7 +1,7 @@
 # PH.140.629 Final Project: MRI Brain Tumor Classifier Web App 
 ## Authors
 Lanzhuo Wu,
-Zhe Chen,
+Noveda Chen,
 Yuqian Wang,
 Jiaqi Yang,
 Kuai Yu
