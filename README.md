@@ -62,6 +62,9 @@ CNN(
 
 ## Citation
 [1] Bondy, M. L., Scheurer, M. E., Malmer, B., Barnholtz-Sloan, J. S., Davis, F. G., Il'yasova, D., Kruchko, C., McCarthy, B. J., Rajaraman, P., Schwartzbaum, J. A., Sadetzki, S., Schlehofer, B., Tihan, T., Wiemels, J. L., Wrensch, M., Buffler, P. A., & Brain Tumor Epidemiology Consortium (2008). Brain tumor epidemiology: consensus from the Brain Tumor Epidemiology Consortium. <i>Cancer, 113</i>(7 Suppl), 1953–1968. https://doi.org/10.1002/cncr.23741
+
 [2]Chmiel, W., Kwiecień, J., & Motyka, K. (2023). Saliency Map and Deep Learning in Binary Classification of Brain Tumours. <i>Sensors, 23</i>(9), 4543. https://doi.org/10.3390/s23094543
+
 [3]Sartaj Bhuvaji, Ankita Kadam, Prajakta Bhumkar, Sameer Dedge, &amp; Swati Kanchan. (2020). <i>Brain Tumor Classification (MRI)</i> [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DSV/1183165
+
 [4]Villanueva-Meyer, J. E., Mabray, M. C., & Cha, S. (2017). Current Clinical Brain Tumor Imaging. <i>Neurosurgery, 81</i>(3), 397–415. https://doi.org/10.1093/neuros/nyx103 
