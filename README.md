@@ -15,8 +15,7 @@ A proper MRI image classification could reduce a lot of work to the medical syst
 
 The dataset we utilized has already classified brain tumor types into 4 categories: glioma tumor, meningioma tumor, pituitary tumor, and no tumor.
 
-However, the probability of classifying brain tumor images based on MRI images alone is significantly low.
-
+However, it is tedious and challenging to classify brain tumor type based on MRI images by human huamn.
 The testing MRI files include 100 glioma tumor images, 115 meningioma tumor images, 105 no tumor images, and 74 pituitary tumor images.
 
 The training MRI files include 826 glioma tumor images, 822 meningioma tumor images, 395 no tumor images, and 827 pituitary tumor images.
