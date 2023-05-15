@@ -36,7 +36,7 @@ streamlit run web.py
 ```
 
 ## Data Set of Choice
-https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri [1]
+https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri (Sartaj et al., 2020)
 
 ## Model Result
 Training Accuracy: 
