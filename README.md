@@ -22,9 +22,13 @@ The testing MRI files include 100 glioma tumor images, 115 meningioma tumor imag
 The training MRI files include 826 glioma tumor images, 822 meningioma tumor images, 395 no tumor images, and 827 pituitary tumor images.
 
 This dataset includes both front views, side views, top views, and back views.
-
  
 We have also tried TransferLearning (TL) with AlexNet for better image classifications. Yet, the result did not turn out to be statistically significant. Hence, only CNN model, training data, and testing data is shown bellow.
+
+## Run the streamlit app
+```
+streamlit run web.py
+```
 
 ## Data Set of Choice
 https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri
