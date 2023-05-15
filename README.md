@@ -23,7 +23,7 @@ The training MRI files include 826 glioma tumor images, 822 meningioma tumor ima
 
 This dataset includes both front views, side views, top views, and back views.
  
-We have also tried TransferLearning (TL) with AlexNet for better image classifications. Yet, the result did not turn out to be statistically significant. Hence, only CNN model, training data, and testing data is shown bellow.
+We have also tried TransferLearning (TL) with AlexNet for better image classifications. Yet, there is no difference in testing accuracy. Hence, only CNN model, training data, and testing data is shown bellow.
 
 ## Run the streamlit app
 ```
