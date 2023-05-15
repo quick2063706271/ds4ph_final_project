@@ -32,6 +32,7 @@ We have also tried TransferLearning (TL) with VGG16 for better image classificat
 
 ## Run the streamlit app
 First, neviagte to Web folder
+
 Then, run the following command
 ```
 streamlit run Home.py
