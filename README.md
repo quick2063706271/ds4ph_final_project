@@ -42,8 +42,16 @@ Validation Accuracy:
 Testing Accuracy: 
 0.7055837563451777
 
-
-Our final model
+Our final model is two convolutional layers each followed with max pool layer, and two fully connected layers for classifications. 
+```
+CNN(
+  (conv1): Conv2d(3, 7, kernel_size=(5, 5), stride=(1, 1))
+  (pool): MaxPool2d(kernel_size=2, stride=2, padding=0, dilation=1, ceil_mode=False)
+  (conv2): Conv2d(7, 12, kernel_size=(7, 7), stride=(1, 1))
+  (fc1): Linear(in_features=25392, out_features=32, bias=True)
+  (fc2): Linear(in_features=32, out_features=4, bias=True)
+)
+```
 
 
 ## Citation
