@@ -31,8 +31,10 @@ This dataset includes front views, side views, top views, and back views.
 We have also tried TransferLearning (TL) with VGG16 for better image classifications (Simonyan et al. 2014). Yet, there is no difference in testing accuracy. Hence, only CNN model, training data, and testing data are shown bellow.
 
 ## Run the streamlit app
+First, neviagte to Web folder
+Then, run the following command
 ```
-streamlit run ./Web/Home.py
+streamlit run Home.py
 ```
 
 ## Data Set of Choice
