@@ -1,10 +1,10 @@
 # PH.140.629 Final Project: MRI Brain Tumor Classifier Web App 
 ## Authors
-Lanzhuo Wu (Team Leader),
+Lanzhuo Wu,
 Zhe Chen,
 Yuqian Wang,
 Jiaqi Yang,
-Kuai Yu,
+Kuai Yu
 
 ## Description
 Brain tumor is one of the most severe tumor types among all. Globally, there are about 3.7 in 100,000 males and about 2.6 in 100,000 females having primary malignant brain tumor. In 2007 in the United States, there are approximately 20,000 individuals were diagnosed with primary brain tumors. The mortality is about 2.8 in 100,000 for males and about 2.0 in 100,000 for females worldwide (Bondy et al., 2008).
@@ -21,18 +21,18 @@ Proper classification of MRI images can reduce a significant amount of work in t
 
 The dataset we utilized has already classified brain tumor types into 4 categories: glioma tumor, meningioma tumor, pituitary tumor, and no tumor.
 
-However, it is tedious and challenging to classify brain tumor type based on MRI images by human huamn.
-The testing MRI files include 100 glioma tumor images, 115 meningioma tumor images, 105 no tumor images, and 74 pituitary tumor images.
+However, it is tedious and challenging to classify brain tumor type based on MRI images by human eyes.
+The testing MRI files include 100 glioma tumor images, 115 meningioma tumor images, 74 pituitary tumor images, and 105 no tumor images.
 
-The training MRI files include 826 glioma tumor images, 822 meningioma tumor images, 395 no tumor images, and 827 pituitary tumor images.
+The training MRI files include 826 glioma tumor images, 822 meningioma tumor images, 827 pituitary tumor images, and 395 no tumor images.
 
-This dataset includes both front views, side views, top views, and back views.
+This dataset includes front views, side views, top views, and back views.
  
-We have also tried TransferLearning (TL) with VGG16 for better image classifications (Simonyan et al. 2014). Yet, there is no difference in testing accuracy. Hence, only CNN model, training data, and testing data is shown bellow.
+We have also tried TransferLearning (TL) with VGG16 for better image classifications (Simonyan et al. 2014). Yet, there is no difference in testing accuracy. Hence, only CNN model, training data, and testing data are shown bellow.
 
 ## Run the streamlit app
 ```
-streamlit run web.py
+streamlit run ./Web/Home.py
 ```
 
 ## Data Set of Choice
