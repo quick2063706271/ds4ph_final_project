@@ -6,7 +6,7 @@ from model import CNN
 
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 print(device)
-order_dict = torch.load("./model_07.pt")
+order_dict = torch.load("./model_07.pt", map_location=device)
 model = CNN()
 model.load_state_dict(order_dict)
 model.to(device)
