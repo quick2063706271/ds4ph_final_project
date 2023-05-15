@@ -13,7 +13,7 @@ model.to(device)
 
 
 st.write("""
-# Tumor-X
+# MRI Brain Tumor Classifier
 """)
 
 uploaded_file = st.file_uploader("Upload Your image", accept_multiple_files=False)
